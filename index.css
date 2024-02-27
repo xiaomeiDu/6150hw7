@@ -3,7 +3,7 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  font-size: 20px; /* Big font size */
+  font-size: 22px; /* Big font size */
   color: #333; /* High-contrast color */
   background-color: #fff; /* High-contrast background color */
 }
@@ -24,13 +24,13 @@ nav ul {
 
 nav ul li {
   display: inline;
-  margin-right: 20px;
+  margin-right: 22px;
 }
 
 nav ul li a {
   text-decoration: none;
   color: #333;
-  font-size: 18px; /* Big font size for navigation links */
+  font-size: 22px; /* Big font size for navigation links */
 }
 
 .image-container {
